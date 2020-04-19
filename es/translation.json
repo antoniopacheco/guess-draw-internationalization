@@ -4,9 +4,15 @@
       "part1": "para empezar, edita <1>src/App.js</1> y graba para refrescar.",
       "part2": "Cambiar el lenguage entre ingles y espanol usando los botones de arriba."
     },
+    "general":{
+        "done": "Listo"
+    },
     "welcome":{
         "newRoom": "Nuevo Juego",
         "orJoin": "O Uneté"
+    },
+    "newGame":{
+        "nameHelp": "Escribe tu nombre"
     },
     "game":{
         "phrases":{
