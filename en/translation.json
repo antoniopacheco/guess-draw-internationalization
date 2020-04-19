@@ -7,5 +7,19 @@
     "welcome":{
         "newRoom": "New Game",
         "orJoin": "Or join existing one"
+    },
+    "game":{
+        "phrases":{
+            "1": "batman and Robin",
+            "2": "jumping in bed",
+            "3": "lovers dancing",
+            "4": "work from home",
+            "5": "back pain",
+            "6": "history museum",
+            "7": "giant tongue",
+            "8": "bitter food",
+            "9": "soulmate",
+            "10": "lucky"
+        }
     }
   } 

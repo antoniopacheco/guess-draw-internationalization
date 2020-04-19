@@ -7,5 +7,19 @@
     "welcome":{
         "newRoom": "Nuevo Juego",
         "orJoin": "O Uneté"
+    },
+    "game":{
+        "phrases":{
+            "1": "batman y robin",
+            "2": "brincar en la cama",
+            "3": "amantes bailando",
+            "4": "trabajo en casa",
+            "5": "dolor de espalda",
+            "6": "museo de historia",
+            "7": "lengua gigante",
+            "8": "comida amarga",
+            "9": "media naranja",
+            "10": "suerte"
+        }
     }
   }
