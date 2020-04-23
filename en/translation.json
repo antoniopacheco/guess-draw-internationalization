@@ -5,14 +5,15 @@
       "part2": "Switch language between english and german using buttons above."
     },
     "general":{
+        "or":"Or",
         "done": "Done"
     },
     "welcome":{
         "newRoom": "New Game",
-        "orJoin": "Or join existing one"
+        "orJoin": "Room Code"
     },
     "newGame":{
-        "nameHelp": "Type your name"
+        "nameHelp": "Name"
     },
     "game":{
         "phrases":{

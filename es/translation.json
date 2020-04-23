@@ -5,14 +5,15 @@
       "part2": "Cambiar el lenguage entre ingles y espanol usando los botones de arriba."
     },
     "general":{
+        "or":"O",
         "done": "Listo"
     },
     "welcome":{
         "newRoom": "Nuevo Juego",
-        "orJoin": "O Uneté"
+        "orJoin": "Codigo de Juego"
     },
     "newGame":{
-        "nameHelp": "Escribe tu nombre"
+        "nameHelp": "Nombre"
     },
     "game":{
         "phrases":{
