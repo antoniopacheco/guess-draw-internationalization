@@ -12,6 +12,10 @@
         "newRoom": "Nuevo Juego",
         "orJoin": "Codigo de Juego"
     },
+    "waiting":{
+        "title": "Esperando a otros jugadores   ",
+        "start": "Empezar"
+    },
     "newGame":{
         "nameHelp": "Nombre"
     },

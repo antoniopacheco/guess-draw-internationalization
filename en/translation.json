@@ -12,6 +12,10 @@
         "newRoom": "New Game",
         "orJoin": "Room Code"
     },
+    "waiting":{
+        "title": "Waiting for players to join",
+        "start": "Start"
+    },
     "newGame":{
         "nameHelp": "Name"
     },
