@@ -6,7 +6,9 @@
     },
     "general":{
         "or":"O",
-        "done": "Listo"
+        "done": "Listo",
+        "loading": "Cargando",
+        "next": "Siguiente"
     },
     "welcome":{
         "newRoom": "Nuevo Juego",
@@ -18,6 +20,12 @@
     },
     "newGame":{
         "nameHelp": "Nombre"
+    },
+    "waitForOthers":{
+        "title": "Espera a los otros jugadores a que terminen"
+    },
+    "drawaings":{
+        "this_is_yours": "Tu dibujaste esto, espera a que los otros jugadores adivinen que es."
     },
     "game":{
         "phrases":{

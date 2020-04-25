@@ -6,7 +6,9 @@
     },
     "general":{
         "or":"Or",
-        "done": "Done"
+        "done": "Done",
+        "loading": "Loading",
+        "next": "Next"
     },
     "welcome":{
         "newRoom": "New Game",
@@ -14,10 +16,16 @@
     },
     "waiting":{
         "title": "Waiting for players to join",
-        "start": "Start"
+        "start": "Start",
     },
     "newGame":{
         "nameHelp": "Name"
+    },
+    "waitForOthers":{
+        "title": "Wait for other players to finish"
+    },
+    "drawaings":{
+        "this_is_yours": "You Drawed this, wait for other players to guess"
     },
     "game":{
         "phrases":{
