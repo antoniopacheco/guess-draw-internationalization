@@ -25,7 +25,10 @@
         "title": "Espera a los otros jugadores a que terminen"
     },
     "drawaings":{
-        "this_is_yours": "Tu dibujaste esto, espera a que los otros jugadores adivinen que es."
+        "this_is_yours": "Tu dibujaste esto, espera a que los otros jugadores adivinen que es.",
+        "writeAnswer": "Escribe una frase relacionada al dibujo.",
+        "writeAnswerGoal": "El objectivo es hacer que otros jugadores confundan la respuesta correcta con la tuya.",
+        "fakeHelp": "Frase falsa"
     },
     "game":{
         "phrases":{

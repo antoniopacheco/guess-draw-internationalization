@@ -25,7 +25,10 @@
         "title": "Wait for other players to finish"
     },
     "drawaings":{
-        "this_is_yours": "You Drawed this, wait for other players to guess"
+        "this_is_yours": "You Drawed this, wait for other players to guess",
+        "writeAnswer": "Write a phrase related with the draw",
+        "writeAnswerGoal": "The objective is to fool other players to choose your phrase.",
+        "fakeHelp": "Fake Phrase"
     },
     "game":{
         "phrases":{
