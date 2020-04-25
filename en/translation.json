@@ -16,7 +16,7 @@
     },
     "waiting":{
         "title": "Waiting for players to join",
-        "start": "Start",
+        "start": "Start"
     },
     "newGame":{
         "nameHelp": "Name"
