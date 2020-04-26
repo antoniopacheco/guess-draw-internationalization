@@ -15,7 +15,8 @@
         "orJoin": "Codigo de Juego"
     },
     "waiting":{
-        "title": "Esperando a otros jugadores   ",
+        "title": "Esperando a otros jugadores",
+        "shareText": "Comparte este codigo de Juego:",
         "start": "Empezar"
     },
     "newGame":{

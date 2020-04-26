@@ -16,6 +16,7 @@
     },
     "waiting":{
         "title": "Waiting for players to join",
+        "shareText": "Share this room Code:",
         "start": "Start"
     },
     "newGame":{
